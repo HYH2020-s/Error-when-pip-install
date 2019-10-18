@@ -8,4 +8,6 @@ Could not fetch URL https://pypi.org/simple/pip/: There was a problem confirming
 
 solution: use image to accelarate(such as douban)
 the new command:
+
+
 pip install [package name] -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
